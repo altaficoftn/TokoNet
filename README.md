@@ -92,7 +92,7 @@ sudo apt update && sudo apt install g++ -y
 ### Clone Repository
 
 ```bash
-git clone https://github.com/[username]/TokoNet.git
+git clone https://github.com/altaficoftn/TokoNet.git
 cd TokoNet/src
 ```
 
@@ -126,7 +126,7 @@ Output yang muncul saat server berhasil berjalan:
 
 ```
 ==============================================
-     TokoNet v2 Server — Port 8080
+     TokoNet Server — Port 8080
 ==============================================
 [SERVER] Inventory siap: 6 item
 [SERVER] Mendengarkan koneksi...

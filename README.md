@@ -1,7 +1,7 @@
 # TokoNet — Sistem Manajemen Toko Berbasis Client-Server
 
 **Proyek Akhir Mata Kuliah Algoritma dan Pemrograman**  
-Teknik Komputer — Universitas Indonesia — 2026
+Teknik Elektro — Universitas Indonesia — 2026
 
 | Anggota | NPM |
 |---|---|
@@ -146,7 +146,7 @@ Output yang muncul saat client berhasil terhubung:
 
 ```
 ============================================
-     TokoNet v2 — Sistem Kasir Toko
+     TokoNet — Sistem Kasir Toko
 ============================================
   Server: 127.0.0.1:8080
   Koneksi ke server OK!

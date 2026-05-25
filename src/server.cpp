@@ -1,5 +1,5 @@
 // =============================================================================
-//  TokoNet v2 - server.cpp
+//  TokoNet - server.cpp
 //  TCP Server dengan Multithreading + Mutex (BONUS POIN)
 //
 //  KOMPILASI : g++ -std=c++11 -pthread -o server server.cpp
@@ -129,7 +129,7 @@ void handleClient(int sock, sockaddr_in addr) {
 // =============================================================================
 int main() {
     std::cout << "==============================================\n";
-    std::cout << "     TokoNet v2 Server — Port " << PORT << "\n";
+    std::cout << "     TokoNet Server — Port " << PORT << "\n";
     std::cout << "==============================================\n";
 
     isiInventory();
